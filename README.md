@@ -6,5 +6,7 @@
 </br>
 </br>
 
+Software Developer and Engineer from New York with a background in Mechatronics/Robotics Engineering aiming to build meaningful and impactful solutions.
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=waseemh-io)
 [![GitHub followers](https://img.shields.io/github/followers/waseemh-io.svg?style=social&label=Follow)](https://github.com/waseemh-io?tab=followers)
