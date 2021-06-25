@@ -6,9 +6,9 @@
 </br>
 </br>
 
-Software Developer and Engineer from New York, with a background in Mechatronics and Robotics aiming to build meaningful and impactful solutions.
-
-Currently learning more and dabbling in Product Development, Blockchain and AI.
+Software Developer and Mechatronics Engineer from New York.
+<!-- I started coding aiming to build meaningful and impactful solutions. -->
+<!-- Currently learning more and dabbling in Product Development, Blockchain and AI. -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=waseemh-io)
 [![GitHub followers](https://img.shields.io/github/followers/waseemh-io.svg?style=social&label=Follow)](https://github.com/waseemh-io?tab=followers)
