@@ -1,4 +1,4 @@
-### Hi there, I am Waseem! 👋
+### Hi there, my name is Waseem! 👋
 
 <a href="https://www.linkedin.com/in/waseem-hussain/">
   <img align="center" alt="Waseem's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
