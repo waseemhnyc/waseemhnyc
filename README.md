@@ -7,5 +7,16 @@
 </br>
 
 Software Developer and Mechatronics Engineer from New York.
+
+
+👨‍💻 Always building and learning
+
+
+💬 Sharing my thoughts and journey 
+
+
+👨‍🏫 Adjunct Professor at Vaughn College NY
+
+
 <!-- I started coding aiming to build meaningful and impactful solutions. -->
 <!-- Currently learning more and dabbling in Product Development, Blockchain and AI. -->
