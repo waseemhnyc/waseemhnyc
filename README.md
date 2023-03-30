@@ -1,4 +1,3 @@
 ### Hey there, my name is Waseem! 👋
 
-Building cool things and sharing my journey
-
+<!-- Will use this as a space to highlight a cool project -->
