@@ -1,7 +1,5 @@
 ## Hey, my name is Waseem! 👋
 
-Focused on building cool things and sharing my journey!
-
 Hoping to help, educate, excite and inspire others through my work.
 
 ## Get in touch or learn more
