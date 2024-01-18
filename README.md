@@ -9,7 +9,7 @@ Just started working on https://neutron.school. Get in touch and check me out be
 
 Check out my build log at https://waseemhnyc.notion.site
 
-Sign up for newsletter where I share updates https://waseem.beehiiv.com/
+Sign up for my newsletter where I share updates https://waseem.beehiiv.com/
 
 <!--
 Hoping to help, educate, excite and inspire others through my work.
