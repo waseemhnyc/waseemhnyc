@@ -7,9 +7,17 @@ Just started working on https://neutron.school. Get in touch and check me out be
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/waseemhnyc)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waseemh.nyc@gmail.com)
 
-Check out my build log at https://waseemhnyc.notion.site
+https://waseemh.nyc
 
-Sign up for my newsletter where I share updates https://waseem.beehiiv.com/
+https://waseemhnyc.notion.site
+
+Recent:
+
+- https://askmiqy.waseemh.nyc/
+
+- https://instagraph-nextjs-fastapi.vercel.app/
+
+- https://cosmic-explorer-game.vercel.app/
 
 <!--
 Hoping to help, educate, excite and inspire others through my work.
